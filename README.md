@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Redux/ReduxToolKit**
 
-- 💬 Ask me about **React JavaScript Html Css e**
+- 💬 Ask me about **React JavaScript Html Css**
 
 - 📫 How to reach me **ohamdi776@gmail.com**
 
