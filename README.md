@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif" alt="cyberpunk pixel art gif from Akito_One")
+![MasterHead](https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif)
 <h1 align="center">Hi 👋, I'm Oussama Hamdi</h1>
 <h3 align="center">A passionate Web Developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src='https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif'>
