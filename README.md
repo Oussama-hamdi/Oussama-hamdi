@@ -14,7 +14,7 @@ Web Developer
 
 - 📫 How to reach me **oussamahamdi.devwork@gmail.com**
 
-- 🧠  I'm learning TypeScript
+- 🧠 What i'm currently learning: Completing a Software Engineering Program
   
 - ⚡  Fun Fact: My coding buddies? \`console.log\` and \`border: 1px solid red;\` - they've never let me down! 🤝💻
 
