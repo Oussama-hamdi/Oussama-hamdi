@@ -6,7 +6,7 @@ Web Developer
 [![committers.top badge](https://user-badge.committers.top/tunisia/Oussama-hamdi.svg)](https://user-badge.committers.top/tunisia/Oussama-hamdi)
 <img align="right" alt="Coding" width="400" src='https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-hamdi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="oussama-hamdi" /> </p>
-2 years into my self-taught coding journey post-career switch 🚀 | Front-end development specialist with MERN stack proficiency for the backend. Continuously learning and growing. Currently enrolled in A Software Engineering program to elevate my skills 💻 
+2 years into my self-taught coding journey post-career switch 🚀 | Front-end development specialist with MERN stack proficiency for the backend. Continuously learning and growing. Currently enrolled in a Software Engineering program to elevate my skills 💻 
 
 - 🌍  I'm based in Tunisia
 
