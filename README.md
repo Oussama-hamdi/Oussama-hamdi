@@ -14,7 +14,7 @@ Web Developer
 
 - 📫 How to reach me **oussamahamdi.devwork@gmail.com**
 
-- 🧠 What i'm currently learning: Completing a Software Engineering Program 💻
+- 🧠 What i'm currently learning: Next.js 💻
   
 - ⚡  Fun Fact: My coding buddies? \`console.log\` and \`border: 1px solid red;\` - they've never let me down! 🤝💻
 
