@@ -4,6 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 [![committers.top badge](https://user-badge.committers.top/tunisia/Oussama-hamdi.svg)](https://user-badge.committers.top/tunisia/Oussama-hamdi)
+
+<a href="https://www.codewars.com/users/Oussama-hamdi">
+  <img src="https://www.codewars.com/users/Oussama-hamdi/badges/large" width="300" />
+</a>
 <img align="right" alt="Coding" width="400" src='https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-hamdi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="oussama-hamdi" /> </p>
 2 years into my self-taught coding journey 🚀 | Front-end development specialist with proficiency in the MERN stack. Continuously learning and growing 💻
